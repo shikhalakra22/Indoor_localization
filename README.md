@@ -13,3 +13,5 @@ The network of devices used to locate people or objects in indoor environment.
 1. Three or more APs are considered.
 2. The distance between each APs and the device is calculated.
 3. The intersection of these circles(centroid) is the required location.
+
+![images](https://user-images.githubusercontent.com/48185254/79153958-60529480-7dec-11ea-826e-db91786ff439.jpeg)
